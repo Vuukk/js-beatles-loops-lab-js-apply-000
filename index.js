@@ -6,6 +6,9 @@
     }
     return allMusicians
   }
+
+
+
 function johnLennonFacts () {
   const facts = [
   "He was the last Beatle to learn to drive",
