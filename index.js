@@ -13,5 +13,7 @@ function johnLennonFacts () {
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-while()  {}
+while(let i=0; i<facts.length; i++)  {
+  
+}
 }
