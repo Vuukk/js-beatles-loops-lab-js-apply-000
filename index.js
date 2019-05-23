@@ -17,7 +17,7 @@ function johnLennonFacts () {
   "He hated the sound of his own voice"
 ];
 const newFacts = []
-var i=0;
+var i = 0;
 while (i < facts.length)  {
   newFacts.push(facts[i] +"!!!");
   i++;
