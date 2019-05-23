@@ -10,7 +10,7 @@
 
 
 function johnLennonFacts () {
-  const facts = []
+ 
 var newFacts = []
 var i = 0;
 while (i < facts.length)  {
