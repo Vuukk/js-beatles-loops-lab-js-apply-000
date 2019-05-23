@@ -22,5 +22,7 @@ return newFacts
 function iLoveTheBeatles () {
   var array =[]
   var i=0
-  do
+  do{
+    
+  }
 }
