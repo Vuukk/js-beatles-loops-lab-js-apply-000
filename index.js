@@ -20,5 +20,6 @@ while (i < facts.length)  {
 return newFacts
 }
 function iLoveTheBeatles () {
-  
+  var array =[]
+  do
 }
