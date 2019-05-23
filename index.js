@@ -26,5 +26,6 @@ function iLoveTheBeatles () {
     text += "I love the beatles!"
     i++
   }
-  while ()
+  while (i<15)
+  return array
 }
