@@ -27,5 +27,5 @@ function iLoveTheBeatles () {
     
   }while (num<15);
  
-  return array
+  return array;
 }
