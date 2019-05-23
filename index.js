@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
   function theBeatlesPlay (musicians, instruments) {
-    var musicians []
+    var musicians = []
+    for (let i=0; i<musicians.length; i++)
   }
->>>>>>> 07c962702ee2b205a091fdee0978be8047c138b2
-}
